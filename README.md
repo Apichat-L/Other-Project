@@ -1,6 +1,6 @@
 # Other Projects
 
-A collection of my past university and personal projects, each in its own folder. Open any folder to see that project's full README.
+A collection of my Group projects in the past, each in its own folder. Open any folder to see that project's full README.
 
 ---
 
